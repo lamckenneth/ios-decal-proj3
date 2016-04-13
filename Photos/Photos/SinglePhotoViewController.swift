@@ -40,9 +40,9 @@ class SinglePhotoViewController: UIViewController {
             heart.setImage(UIImage(named: "full-heart"), forState: .Normal)
         }
         
-        username.font = UIFont(name: "Baskerville-SemiBold", size: 18)
-        date.font = UIFont(name: "Baskerville-SemiBold", size: 18)
-        likes.font = UIFont(name: "Baskerville-SemiBold", size: 18)
+        username.font = UIFont(name: "Courier", size: 18)
+        date.font = UIFont(name: "Courier", size: 18)
+        likes.font = UIFont(name: "Courier", size: 18)
         
     }
     
